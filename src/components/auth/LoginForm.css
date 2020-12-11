@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.center-form-login {
+    font-family: 'Raleway', sans-serif;
+    background-color: #1abc9c;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-box2 {
+    font-family: 'Raleway', sans-serif;
+    /*position: absolute;*/
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-body{
+    background-color: #154360;
+}
+
+.card-style {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.img-style{
+    width: 200px; height: 200px;
+}
+
+.card h1 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.form-item {
+    font-family: 'Raleway', sans-serif;
+    padding: 5px;
+    margin-bottom: 2rem;
+    height: 30px;
+    width: 16rem;
+    border: 2px solid grey;
+
+    /*box-shadow: 2px 3px 0px darkgoldenrod;*/
+}
+
+.form-submit {
+    font-family: 'Raleway', sans-serif;
+    height: 35px;
+    color: #fff;
+    background-color: navy;
+    border: none;
+    letter-spacing: 0.2rem;
+    transition: 0.3s opacity ease;
+    cursor: pointer;
+    /*margin-left: 50px;*/
+}
+.form-submit:hover {
+    opacity: 0.6;
+}
+
+.material-half-bg .cover {
+    background-color: #1D2939;
+    height: 20vh;
+    opacity: 0.5;
+    }
+.lockscreen-content .logo {
+    font-family: "fantasy";
+    margin-bottom: 40px;
+    color: #1D2939 !important;
+    }
+.text-primary {
+    color: #31485f !important;
+    }
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    }
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+    }
+   }
+
+
+#row1{
+ background-color: #000000;
+ padding: 10px;
+ }
+#row2{
+  background-color: #0063A7;
+  padding: 10px;
+  color: #fff;
+  font-size: 3px;
+  box-shadow: 2px 3px 0px darkgoldenrod;
+
+  }
+.ml3 {
+  font-weight: 700!important;
+}
+.material-half-bg .cover {
+    background-color: #2762A6;
+    height: 30vh;
+    }
+
+.text-primary {
+    color: #31485f !important;
+    }
+.login-box{
+    opacity: 20%;
+}
+.login-content {
+   min-height: 450px;
+
+   }
+.login-content{
+   font-family: "fantasy";
+   margin-bottom: 40px;
+   color: #000000 !important;
+   text-shadow: #815608;
+    opacity: 0.5;
+          }
